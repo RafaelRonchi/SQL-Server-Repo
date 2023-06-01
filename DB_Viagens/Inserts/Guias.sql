@@ -1,0 +1,26 @@
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skaboo', 'Micro exam-lower GI NEC', 'NequeAenean.ppt', 22);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Zoovu', 'Intracran pressure montr', 'DonecUt.mp3', 16);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Browsezoom', 'Aspir soft tiss hand NEC', 'In.png', 14);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skyndu', 'Thorac esophagogastrost', 'Cubilia.tiff', 11);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skajo', 'Injection into tendon', 'Tempus.avi', 16);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Avamba', 'Oth intraop mag res imag', 'NonMattisPulvinar.tiff', 22);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Myworks', 'Femoral division NEC', 'MagnaVestibulum.xls', 15);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Oyoba', 'Canaliculus repair', 'SemPraesent.jpeg', 3);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Chatterpoint', 'Linear craniectomy', 'PellentesqueViverraPede.mp3', 14);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Jamia', 'Remove imp dev-metat/tar', 'SedAccumsanFelis.doc', 11);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skiptube', 'Extraoc musc-tend biopsy', 'NullaSuscipitLigula.png', 1);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skimia', 'Esophagogastroplasty', 'In.avi', 18);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Voomm', 'Ileostomy NOS', 'Morbi.tiff', 16);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Zooxo', 'Lysis pharyngeal adhes', 'Donec.mov', 14);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Feedmix', 'Opn hern ant abd-grf NEC', 'Posuere.avi', 8);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Trudeo', 'Other therapeutic ultsnd', 'UltricesLibero.avi', 5);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Jabbercube', 'Myotomy of sigmoid colon', 'SuspendissePotenti.ppt', 21);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skibox', 'Pass musculosk exer NEC', 'InHacHabitasse.ppt', 1);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Dazzlesphere', 'Incision of palate', 'Vestibulum.png', 22);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Tagpad', 'Pacemaker rate check', 'SagittisDui.xls', 12);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Quinu', 'Destruct abd wall lesion', 'Nullam.avi', 19);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Plajo', 'Control of epistaxis NOS', 'In.xls', 5);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Topicshots', 'Extracorporeal circulat', 'Quisque.jpeg', 14);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Talane', 'Penile repair NEC', 'OrciVehiculaCondimentum.pdf', 21);
+insert into Guias (Guias_nome, Guias_descricao, Guias_especialidade, Pacotes_fk) values ('Skiba', 'Contr phlebogram-hd/neck', 'SollicitudinMi.txt', 9);
+select * from Guias

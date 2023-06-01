@@ -1,0 +1,26 @@
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Ac osteomyelitis-hand', 13, 22);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (1, 'Atresia small intestine', 22, 12);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Adv eff measles vaccine', 24, 23);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (2, 'Famil hered dis-antepart', 22, 6);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (4, 'Puerp septc thromb-unsp', 24, 6);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (2, '1st deg burn upper arm', 8, 24);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Anomalies of toes NEC', 12, 24);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Tox nod goiter w crisis', 6, 9);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Adv eff gas anesthet NEC', 20, 20);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Sprain of foot NOS', 19, 15);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Fatal familial insomnia', 9, 9);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (1, 'Prim spont pneumothorax', 19, 21);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (4, 'Pap smr vag-cytol malig', 21, 24);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Ab NOS uncomplicat-comp', 6, 1);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (4, 'Giardiasis', 22, 18);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Chr frontal sinusitis', 17, 16);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Retroperitoneum inj-open', 23, 3);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Abdmnal pain rt lwr quad', 3, 3);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (2, 'Eclampsia-delivered', 4, 15);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Pois-poliomyelit vaccine', 8, 7);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (5, 'Anesth compl antepartum', 23, 6);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (3, 'Opn wnd anterior abdomen', 21, 6);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (4, 'Ac dilation of stomach', 16, 4);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (4, 'Benign neoplasm scrotum', 3, 16);
+insert into Avaliacoes (Pontuacao, Comentario, Pacotes_fk, Cliente_fk) values (2, 'C5-c7 fx-op/cord inj NEC', 8, 9);
+select * from Avaliacoes
